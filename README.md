@@ -1,2 +1,0 @@
-# dspiral
-sample website
